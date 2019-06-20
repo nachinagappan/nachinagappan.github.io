@@ -1,8 +1,12 @@
 ## Welcome to Nachi Nagappan's homepage
 
-You can use the [editor on GitHub](https://github.com/nachinagappan/nachinagappan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Principal Researcher at Microsoft Research where I work in the Empirical Software Engineering Research Group (ESE) in RiSE. I also hold an adjunct faculty appointment at IIIT New Delhi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests are in the field of Data Analytics and Machine Learning for Software Engineering focusing on Software Reliability, Software Metrics, Developer Productivity and Analytics for Empirical Software Engineering. I am particularly interested in the application of software measurement theory with statistical methods for building parametric models for identifying and understanding relationships between software measures and quality.
+
+My recent interdisciplinary research projects span the spectrum of software analytics ranging from intelligent software design for games; identifying data center reliability to software engineering optimization for energy in mobile devices. My research results have been deployed to several product divisions within Microsoft and have commercially shipped to Microsoft customers as features.
+
+
 
 ### Markdown
 
