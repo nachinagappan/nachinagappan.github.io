@@ -6,6 +6,8 @@ My research interests are in the field of Data Analytics and Machine Learning fo
 
 My research projects are fairly interdisciplinary and span the spectrum of software analytics ranging from intelligent software design for games; identifying data center reliability to software engineering optimization for energy in mobile devices. My research results have been deployed to several product divisions within Microsoft and have commercially shipped to Microsoft customers as features.More recently my work has focussed on the intersection of SE and AI. 
 
+<img src="GitHub-profile.jpg" alt="Nachi" style="width:128px;height:128px;">
+
 ## Publications
 
 You can find some of my recent publications here 
@@ -16,7 +18,7 @@ You can email me at nachi with n at my employers domain. You can also check any 
 
 ## Personal
 
-I am fascinated by Bande dessinées and into miniature railroad modeling. I work mostly in the HO and G scale. I also dabble around with RC vehicles.
+I am fascinated by Bande dessinées and am into miniature railroad modeling. I work mostly in the HO and G scale. I also dabble around with RC vehicles.
 
 
 
