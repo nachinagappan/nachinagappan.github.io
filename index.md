@@ -12,7 +12,7 @@ A slightly older version of my CV can be found <a href="Nagappan- CV-2019 (1).pd
 
 ## Publications
 
-You can find some of my recent publications <a href="paper.htm">here</a>
+You can find some of my recent publications <a href="papers.htm">here</a>
 
 ## Contact
 
