@@ -10,7 +10,7 @@ My research projects are fairly interdisciplinary and span the spectrum of softw
 
 ## CV
 
-A slightly older version of my CV can be found <a href="papers.html">here</a>
+A slightly older version of my CV can be found <a href="papers.htm">here</a>
 
 ## Publications
 
