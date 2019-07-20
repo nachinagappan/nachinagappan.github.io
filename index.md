@@ -8,12 +8,6 @@ My research projects are fairly interdisciplinary and span the spectrum of softw
 
 An <a href="https://www.americanscientist.org/article/empirical-software-engineering">article</a> in the American Scientist that talks about some of our work!
 
-## Recent News
-
-* Aug '19: Our ESEC/FSE 2009 paper "Cross-project Defect Prediction: a Large Scale Experiment on Data vs. Domain vs. Process" won the ESEC/FSE test-of-time award at <a href="https://esec-fse19.ut.ee/program/overview/">ESEC/FSE 2019</a> in Tallin!  
-* May '19: Our paper "Software Engineering for Machine Learning: A Case Study" won the IEEE SOFTWARE Best paper award at ICSE 2019 SEIP. 
-* March '19: Our paper won the 2nd place in the "Top Ten Computer Science Education Research Papers of the Last 50 Years Recognized at SIGCSE". ACM Press release <a href="https://www.acm.org/media-center/2019/march/sigcse-top-10-papers">here</a>.
-
 ## CV
 
 A copy of my CV can be found <a href="Nagappan- CV-2019 (1).pdf">here</a>
