@@ -10,7 +10,7 @@ An <a href="https://www.americanscientist.org/article/empirical-software-enginee
 
 ## CV
 
-A copy of my CV can be found <a href="Nagappan-CV-2019.pdf">here</a>
+A copy of my CV can be found <a href="Nagappan-CV.pdf">here</a>
 
 ## Publications
 
