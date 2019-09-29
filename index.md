@@ -1,3 +1,14 @@
+<HEAD>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-148953677-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-148953677-1');
+</script>
+</HEAD>
 ## Welcome to Nachi Nagappan's homepage
 
 I am a Partner Researcher at Microsoft Research where I work in the <a href="https://www.microsoft.com/en-us/research/group/empirical-software-engineering-group-ese/">Empirical Software Engineering Research Group (ESE)</a> in RiSE. I also hold an adjunct faculty appointment at <a href = "https://www.iiitd.ac.in/">IIIT New Delhi</a>.
