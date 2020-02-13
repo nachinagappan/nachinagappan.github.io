@@ -18,7 +18,7 @@ An earlier <a href="https://www.americanscientist.org/article/empirical-software
 
 ## CV
 
-A copy of my CV can be found <a href="Nagappan-CV.pdf">here</a>
+A copy of my CV can be found <a href="Nagappan- CV-Feb-2020.pdf">here</a>
 
 ## Publications
 
