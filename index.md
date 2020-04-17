@@ -16,17 +16,14 @@ My research has been in the field of Data Analytics and Machine Learning for Sof
 
 An earlier <a href="https://www.americanscientist.org/article/empirical-software-engineering">article</a> in the American Scientist that talks about some of our work!
 
-## CV
+## Recent News!
 
-A copy of my CV can be found <a href="Nagappan- CV-Feb-2020.pdf">here</a>
-
-## Publications
-
-You can find my recent publications <a href="papers.htm">here</a>
-
-## Contact
-
-You can email me at nachi with n at my employers domain. My personal email address is my full firstname.lastname AT GMAIL. You can also check any of my papers for my full name.
+<br> <b>* Apr '20</b>:ICST 2020 Most Influential paper for our ICST 2010 paper "Searching for a Needle in a Haystack: Predicting Security Vulnerabilities for Windows Vista." </br>
+        <br> <b>* Jan '20</b>: I am honored to receive the IEEE Computer Society 2020 Harlan D. Mills Award. Press release can be found <a href="https://www.computer.org/press-room/2020-news/2020-ieee-mills-award-nagappan">here</a>.<br>
+        <br> <b>* Oct '19</b>: Our ISSRE 2009 paper was recognized in the 30 year ISSRE most influential papers <a href="http://2019.issre.net/node/77">list.</a>.<br>
+        <br> <b>* Aug '19</b>: Our ESEC/FSE 2009 paper "Cross-project Defect Prediction: a Large Scale Experiment on Data vs. Domain vs. Process" won the ESEC/FSE test-of-time award at <a href="https://esec-fse19.ut.ee/program/overview/">ESEC/FSE 2019</a> in Tallin! <br><a href="Award.jpeg">(Photo)</a><br>  
+        <br> <b>* May '19</b>: Our paper "Software Engineering for Machine Learning: A Case Study" won the IEEE SOFTWARE Best paper award at ICSE 2019 SEIP. <br>
+        <br> <b>* Mar '19</b>: Our paper won the 2nd place in the "Top Ten Computer Science Education Research Papers of the Last 50 Years Recognized at SIGCSE". ACM Press release <a href="https://www.acm.org/media-center/2019/march/sigcse-top-10-papers">here</a>.<br> 
 
 ## Personal
 
