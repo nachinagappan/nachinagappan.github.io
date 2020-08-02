@@ -10,7 +10,7 @@
 
 ## Welcome to Nachiappan (Nachi) Nagappan's homepage
 
-I am a Partner Researcher at Microsoft Research where I work in the <a href="https://www.microsoft.com/en-us/research/group/saint-group/"> Software Analysis and Intelligence (SAINT) team </a>. I also hold an adjunct faculty appointment at <a href = "https://www.iiitd.ac.in/">IIIT New Delhi</a>.
+I am a Partner Researcher at Microsoft Research where I work in the <a href="https://www.microsoft.com/en-us/research/group/saint-group/"> Software Analysis and Intelligence (SAINTes) team </a>. I also hold an adjunct faculty appointment at <a href = "https://www.iiitd.ac.in/">IIIT New Delhi</a>.
 
 My research has been in the field of Data Analytics and Machine Learning for Software Engineering focusing on Analytics for Empirical Software Engineering, Software Reliability, Software Metrics, and Developer Productivity. My research projects are fairly interdisciplinary and span the spectrum of software analytics ranging from intelligent software design for games; identifying data center reliability to individual developer and team productivity. More recently my work has focused on the intersection of SE and AI.
 
