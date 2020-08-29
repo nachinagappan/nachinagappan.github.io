@@ -18,6 +18,7 @@ An earlier <a href="https://www.americanscientist.org/article/empirical-software
 
 ## Recent News!
 
+<br> <b>* Aug '20</b>: ACM SIGSOFT Distinguished paper award at ASE for “Problems and Opportunities in Training Deep-Learning Software Systems: An Analysis of Variance”<br>
 <br> <b>* Jul '20</b>: My Harlan Mills Award talk is available <a href="Harlan-Mills-Talk.pdf">here</a>. Thanks again for the fantastic questions! As the saying goes, “If I have seen further it is by standing on the shoulders of giants”, this is all due to the generosity and kindness of the broader community! Thank you! <br>
 <br> <b>* Apr '20</b>: ICST 2020 Most Influential paper for our ICST 2010 paper "Searching for a Needle in a Haystack: Predicting Security Vulnerabilities for Windows Vista." <br>
         <br> <b>* Jan '20</b>: I am honored to receive the IEEE Computer Society 2020 Harlan D. Mills Award. Press release can be found <a href="https://www.computer.org/press-room/2020-news/2020-ieee-mills-award-nagappan">here</a>.<br>
