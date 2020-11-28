@@ -18,6 +18,9 @@ An earlier <a href="https://www.americanscientist.org/article/empirical-software
 
 ## Recent News!
 
+<br> <b>* Dec '20</b>: 1.	Graduation speaker – Fall 2020 ceremony, Department of Computer Science, North Carolina State University, 2020.<br>
+<br> <b>* Nov '20</b>: IEEE Fellow. Citation: “For Contributions to Software Reliability.”<br>
+<br> <b>* Nov '20</b>: Outstanding Alumnus, Department of Computer Science, North Carolina State University. Induction to Alumni hall of Fame, 2020.<br>
 <br> <b>* Aug '20</b>: ACM SIGSOFT Distinguished paper award at ASE for “Problems and Opportunities in Training Deep-Learning Software Systems: An Analysis of Variance”<br>
 <br> <b>* Jul '20</b>: My Harlan Mills Award talk is available <a href="Harlan-Mills-Talk.pdf">here</a>. Thanks again for the fantastic questions! As the saying goes, “If I have seen further it is by standing on the shoulders of giants”, this is all due to the generosity and kindness of the broader community! Thank you! <br>
 <br> <b>* Apr '20</b>: ICST 2020 Most Influential paper for our ICST 2010 paper "Searching for a Needle in a Haystack: Predicting Security Vulnerabilities for Windows Vista." <br>
