@@ -10,7 +10,7 @@
 
 ## Welcome to Nachiappan (Nachi) Nagappan's homepage
 
-I am a Partner Researcher at Microsoft Research where I work in the <a href="https://www.microsoft.com/en-us/research/group/saint-group/"> Software Analysis and Intelligence (SAINTes) team </a>. I also hold an adjunct faculty appointment at <a href = "https://www.iiitd.ac.in/">IIIT New Delhi</a>.
+I was until recently a Partner Researcher at Microsoft Research where I worked in the <a href="https://www.microsoft.com/en-us/research/group/saint-group/"> Software Analysis and Intelligence (SAINTes) team </a>. I also hold an adjunct faculty appointment at <a href = "https://www.iiitd.ac.in/">IIIT New Delhi</a>.
 
 My research has been in the field of Data Analytics and Machine Learning for Software Engineering focusing on Analytics for Empirical Software Engineering, Software Reliability, Software Metrics, and Developer Productivity. My research projects are fairly interdisciplinary and span the spectrum of software analytics ranging from intelligent software design for games; identifying data center reliability to individual developer and team productivity. More recently my work has focused on the intersection of SE and AI.
 
@@ -18,7 +18,7 @@ An earlier <a href="https://www.americanscientist.org/article/empirical-software
 
 ## Recent News!
 
-<br> <b>* Dec '20</b>: 1.	Graduation speaker – Fall 2020 ceremony, Department of Computer Science, North Carolina State University, 2020.<br>
+<br> <b>* Dec '20</b>: Graduation speaker – Fall 2020 ceremony, Department of Computer Science, North Carolina State University, 2020.<br>
 <br> <b>* Nov '20</b>: IEEE Fellow. Citation: “For Contributions to Software Reliability.”<br>
 <br> <b>* Nov '20</b>: Outstanding Alumnus, Department of Computer Science, North Carolina State University. Induction to Alumni hall of Fame, 2020.<br>
 <br> <b>* Aug '20</b>: ACM SIGSOFT Distinguished paper award at ASE for “Problems and Opportunities in Training Deep-Learning Software Systems: An Analysis of Variance”<br>
