@@ -18,6 +18,7 @@ An earlier <a href="https://www.americanscientist.org/article/empirical-software
 
 ## Recent News!
 
+<br> <b>* Jsn '21</b>: ACM Fellow: Citation: "For contributions to empirical software engineering and data-driven software development."<br>
 <br> <b>* Dec '20</b>: Graduation speaker – Fall 2020 ceremony, Department of Computer Science, North Carolina State University, 2020.<br>
 <br> <b>* Nov '20</b>: IEEE Fellow. Citation: “For Contributions to Software Reliability.”<br>
 <br> <b>* Nov '20</b>: Outstanding Alumnus, Department of Computer Science, North Carolina State University. Induction to Alumni hall of Fame, 2020.<br>
