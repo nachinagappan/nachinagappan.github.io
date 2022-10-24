@@ -17,7 +17,7 @@ My research has been in the field of Data Analytics and Machine Learning for Sof
 An earlier <a href="https://www.americanscientist.org/article/empirical-software-engineering">article</a> in the American Scientist that talks about some of our work!
 
 ## Recent News!
-<br> <b>* Jul '21</b>: ACM SIGSOFT Distinguished Paper award at FSE 2022 for our paper from ESEC/FSE 2011: Using Nudges to Accelerate Code Reviews at Scale<br>
+<br> <b>* Oct '22</b>: ACM SIGSOFT Distinguished Paper award at FSE 2022 for our paper from ESEC/FSE 2011: Using Nudges to Accelerate Code Reviews at Scale<br>
 <br> <b>* Jul '21</b>: Test-of-Time award at ESEC/FSE 2021 (Athens) for our paper from ESEC/FSE 2011: Don’t touch my code!: examining the effects of ownership on software quality<br>
 <br> <b>* Jan '21</b>: ACM Fellow: Citation: "For contributions to empirical software engineering and data-driven software development."<br>
 <br> <b>* Dec '20</b>: Graduation speaker – Fall 2020 ceremony, Department of Computer Science, North Carolina State University, 2020.<br>
