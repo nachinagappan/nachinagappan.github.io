@@ -12,7 +12,7 @@
 
 Bio: I am a Research Scientist at Facebook. Prior to this I was a Partner Researcher at Microsoft Research where I worked in the <a href="https://www.microsoft.com/en-us/research/group/saint-group/"> Software Analysis and Intelligence (SAINTes) team </a>. I also hold an adjunct faculty appointment at <a href = "https://www.iiitd.ac.in/">IIIT New Delhi</a>.
 
-My research has been in the field of Data Analytics and Machine Learning for Software Engineering focusing on Analytics for Empirical Software Engineering, Software Reliability, Software Metrics, and Developer Productivity. My research projects are fairly interdisciplinary and span the spectrum of software analytics. More recently my work has focused on the intersection of SE and AI. I am a Fellow of the ACM and IEEE. 
+My research has been in the field of Data Analytics and Machine Learning for Software Engineering focusing on Analytics for Empirical Software Engineering, Software Reliability, Software Metrics, and Developer Productivity. My research projects are fairly interdisciplinary and span the spectrum of software analytics. More recently my work has focused on the intersection of SE and AI. I am a Fellow of the ACM and the IEEE. 
 
 An earlier <a href="https://www.americanscientist.org/article/empirical-software-engineering">article</a> in the American Scientist that talks about some of our work!
 
